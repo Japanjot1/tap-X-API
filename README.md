@@ -6,7 +6,7 @@ This repo provides an overview of the available API endpoints for tap.exchange a
 
 **Endpoint**
 
-``` GET tap.exchange/app/api/renderAllTokens/ ```
+``` GET tap.exchange/api/renderAllTokens/ ```
 
 **Description**
 
